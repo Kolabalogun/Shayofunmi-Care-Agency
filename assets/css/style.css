@@ -799,7 +799,17 @@ section {
 .about .video-box {
   background: url("../img/about.jpg") center center no-repeat;
   background-size: cover;
-  min-height: 500px;
+
+  min-height: 600px;
+  /* height: 100%; */
+}
+
+.audio-box {
+  background: url("../img/5.jpg") center center no-repeat;
+  background-size: cover;
+
+  min-height: 600px;
+  /* height: 100%; */
 }
 
 .about .play-btn {
