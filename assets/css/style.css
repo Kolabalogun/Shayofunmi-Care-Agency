@@ -825,6 +825,13 @@ section {
   min-height: 600px;
   /* height: 100%; */
 }
+.audio3-box {
+  background: url("../img/3.jpg") center center no-repeat;
+  background-size: cover;
+
+  min-height: 600px;
+  /* height: 100%; */
+}
 
 .about .play-btn {
   width: 94px;
