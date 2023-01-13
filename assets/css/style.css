@@ -811,6 +811,20 @@ section {
   min-height: 600px;
   /* height: 100%; */
 }
+.audio1-box {
+  background: url("../img/10.jpg") center center no-repeat;
+  background-size: cover;
+
+  min-height: 600px;
+  /* height: 100%; */
+}
+.audio2-box {
+  background: url("../img/5.jpg") center center no-repeat;
+  background-size: cover;
+
+  min-height: 600px;
+  /* height: 100%; */
+}
 
 .about .play-btn {
   width: 94px;
