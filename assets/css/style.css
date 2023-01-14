@@ -797,7 +797,7 @@ section {
 }
 
 .about .video-box {
-  background: url("../img/about.jpg") center center no-repeat;
+  background: url("../img/8.jpg") center center no-repeat;
   background-size: cover;
 
   min-height: 600px;
@@ -827,6 +827,13 @@ section {
 }
 .audio3-box {
   background: url("../img/3.jpg") center center no-repeat;
+  background-size: cover;
+
+  min-height: 600px;
+  /* height: 100%; */
+}
+.audio4-box {
+  background: url("../img/9.jpg") center center no-repeat;
   background-size: cover;
 
   min-height: 600px;
@@ -1511,6 +1518,7 @@ section {
 .gallery .gallery-item img {
   transition: all ease-in-out 0.4s;
   min-height: 300px;
+  object-fit: cover;
 }
 
 .gallery .gallery-item:hover img {
